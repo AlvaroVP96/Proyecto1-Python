@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & outputs
+data/*
+!data/README.md
+fig/*
+!fig/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
