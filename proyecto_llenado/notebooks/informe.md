@@ -1,5 +1,4 @@
-````markdown
-// filepath: proyecto_llenado/notebooks/informe.md
+
 # 📊 Informe de Análisis — Estación de Llenado y Taponado
 
 **Fecha del análisis:** 2025-02-15  
