@@ -1,4 +1,23 @@
+# Core data science
 pandas>=2.2
 numpy>=1.26
 matplotlib>=3.8
+
+# Data I/O
 pyarrow>=16.0
+
+# Statistical analysis
+scipy>=1.11
+
+# Jupyter environment
+jupyter>=1.0
+jupyterlab>=4.0
+ipykernel>=6.0
+
+# Optional: For advanced visualizations
+seaborn>=0.13
+
+# Optional: For PDF generation from Markdown
+# markdown>=3.5
+# weasyprint>=60.0
+# grip>=4.6
