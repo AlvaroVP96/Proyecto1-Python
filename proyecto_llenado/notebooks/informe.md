@@ -258,6 +258,7 @@ Si se implementan las **3 recomendaciones**:
 3. Figuras: Carpeta [`fig/`](../fig/)
 4. Metodología OEE: Estándar TPM (Total Productive Maintenance)
 5. Análisis estadístico: Pandas 2.0, NumPy 1.24, Matplotlib 3.7
+6. Repositorio GitHub: [https://github.com/AlvaroVP96/Proyecto1-Python](https://github.com/AlvaroVP96/Proyecto1-Python)
 
 ---
 
